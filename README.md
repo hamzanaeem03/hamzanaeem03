@@ -1,21 +1,15 @@
-<br><br>
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="28px"> Hi, I am Muhammad Hamza Naeem.
-
-
 
 I am an Aspiring Software Engineer. I am passionate about technologies and love to learn new things.
 
-
 ### 💻 Have a look at some of my [Projects](https://hamzanaeem03.github.io/projects/).
-<br><br>
 
 
 ## ⚡ Tech Stack
 
 
-
 Here are a few things I've picked up along my learning journey.<br><br>
-
 
 
 
